@@ -3,9 +3,7 @@ package Angulo;
 import javax.swing.JFrame;
 
 public class AppAngulo {
-	
-	static int www;
-	
+		
 	public static void main(String[] args) {
 		
 		JFrame Fundo = new JFrame("Meteoros");
